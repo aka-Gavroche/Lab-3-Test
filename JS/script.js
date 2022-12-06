@@ -1,4 +1,4 @@
-console.log('Use ArrayMethod() to watch the result.');
+console.log("Use ArrayMethod() to watch the result.");
 
 function ArrayMethod() {
     let names = ["Bill", "John", "Jen", "Jason", "Paul", "Frank", "Steven", "Larry", "Paula", "Laura", "Jim"];
